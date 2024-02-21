@@ -1,14 +1,12 @@
-# express-sample
+# Express Web API Template
 
 自分用のexpressサンプルテンプレートです。
 
 ## 構築方法
 
-以下の通りコマンドを実行する。
+このリポジトリはテンプレートリポジトリとなっている。
 
-```sh
-sh <(curl -fsSL https://raw.githubusercontent.com/neko3cs/neko3cs-lab/main/template/express-web-api/create_from_template.sh)
-```
+右上の「Use this template」からリポジトリを作成して使用する。
 
 ## 実行方法
 
@@ -19,7 +17,7 @@ sh <(curl -fsSL https://raw.githubusercontent.com/neko3cs/neko3cs-lab/main/templ
 ### デバッグ実行
 
 ```sh
-yarn vite
+yarn vite dev
 ```
 
 ## 説明
